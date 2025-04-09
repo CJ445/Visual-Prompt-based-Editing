@@ -116,4 +116,5 @@ Tested on the system with the following specs ( RTX 4060 with VRAM 8GB)
 
 ## 🖥️ Sample Output
 
-.
+![image](https://github.com/user-attachments/assets/2e81a3be-0436-4efa-b8cb-d2958c6dcbe4)
+
