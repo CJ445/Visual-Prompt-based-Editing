@@ -2,11 +2,6 @@
 
 An interactive AI tool for editing images using natural language instructions. Built using [InstructPix2Pix](https://huggingface.co/timbrooks/instruct-pix2pix) by Tim Brooks and a Gradio-based interface.
 
-<p align="center">
-  <img src="examples/basil.jpg" alt="Example" width="250"/>
-  <img src="examples/DSCS.jpg" alt="Example" width="250"/>
-</p>
-
 ---
 
 ## 🚀 Features
@@ -117,3 +112,8 @@ Tested on the system with the following specs ( RTX 4060 with VRAM 8GB)
 - [Gradio](https://www.gradio.app)
 
 ---
+
+
+## 🖥️ Sample Output
+
+.
